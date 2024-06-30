@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 2. Open the Project
 3. Fetch the dependencies. This step will download all the required packages defined in pubspec.yaml. 
   > [!IMPORTANT]
-  > open your terminal and run 'flutter pub get'
+  > open your terminal and run '**flutter pub get**'
 4. Connect your physical device or emulator.
 5. Run the project
 > [!TIP]
-> You can run it by click the play button on your IDE or open your terminal and run 'flutter run'
+> You can run it by click the play button on your IDE or open your terminal and run '**flutter run**'
