@@ -3,14 +3,19 @@
 A new Flutter project for Mobile Application Developer Position - Technical Assessment .
 
 ## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-This project is a starting point for a Flutter application.
+## Prerequisites
+- Flutter SDK '>=3.4.3 <4.0.0' : If you haven't already, install Flutter by following the official installation guide.
+- IDE: Choose any IDE of your choice that supports Flutter development, such as Android Studio, IntelliJ IDEA, or Visual Studio Code.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Running the Project
+1. Clone the Project to your directory
+2. Open the Project
+3. Fetch the dependencies. This step will download all the required packages defined in pubspec.yaml. 
+  > [!IMPORTANT]
+  > open your terminal and run 'flutter pub get'
+4. Connect your physical device or emulator.
+5. Run the project
+> [!TIP]
+> You can run it by click the play button on your IDE or open your terminal and run 'flutter run'
